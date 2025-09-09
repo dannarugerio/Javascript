@@ -1,1 +1,0 @@
-alert("Perdiste!, tienes 0 monedas 💰")
